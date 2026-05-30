@@ -1,4 +1,4 @@
-# Zepto Sales Dashboard 📊
+# Zepto: Sales & Operations Analysis 📊
 
 This project presents an Excel dashboard analyzing Zepto's sales performance.  
 It includes key sales metrics, visual charts, and actionable insights to help track and improve business outcomes.
